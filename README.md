@@ -2,7 +2,7 @@ Create mashup music randomly.
 
 Steps guide
 
-1.) download the code \n
+1.) download the code 
 2.) install required libraries in requirements.txt
 3.) get the music files in your local, by downloading them (make sure the format is mp3 320 kbps)
 4.) put the files in folder with path "/content/songs" (this is the default path)
